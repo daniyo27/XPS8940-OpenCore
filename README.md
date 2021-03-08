@@ -4,6 +4,12 @@ OpenCore 0.6.7
 
 **Working Shutdown/Reboot without any issue.**
 
+**GENERATE YOUR OWN SMBIOS deets (SN/MLB/UUID/ROM) -- they are EMPTY right now!**
+
+_***Should work with Dell G5 5000 Gaming Desktop as well!**_ (let me know!)
+
+(use genSMBIOS with iMac20,1 https://github.com/corpnewt/GenSMBIOS)
+
 Dell XPS 8940
 CPU: Intel i7-10700
 RAM: 2x8GB DDR4-1933
