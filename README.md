@@ -2,13 +2,16 @@
 
 OpenCore 0.6.7 - macOS Big Sur 11.2.2
 
+_***Should work with Dell G5 5090 Gaming Desktop (Comet Lake) as well!**_ (let me know!)
+
 **Shutdown/Reboot/Sleep works without any issue.**
 
 **GENERATE YOUR OWN SMBIOS deets (SN/MLB/UUID/ROM) -- they are EMPTY right now!**
 
-_***Should work with Dell G5 5090 Gaming Desktop (Comet Lake) as well!**_ (let me know!)
-
 (use genSMBIOS with iMac20,1 https://github.com/corpnewt/GenSMBIOS)
+
+
+
 
 **Dell XPS 8940**
 
