@@ -17,7 +17,7 @@ _***Should work with Dell G5 5090 Gaming Desktop (Comet Lake) as well!**_ (let m
 
 CPU: Intel i7-10700
 
-RAM: 2x8GB DDR4-1933
+RAM: 2x8GB DDR4-2933
 
 SSD: WD SN750 NVMe
 
