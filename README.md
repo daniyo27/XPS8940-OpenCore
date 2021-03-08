@@ -1,6 +1,7 @@
 # Dell XPS 8940 - OpenCore
 
 OpenCore 0.6.7
+
 **Working Shutdown/Reboot without any issue.**
 
 Dell XPS 8940
