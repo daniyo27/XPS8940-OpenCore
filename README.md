@@ -6,7 +6,7 @@ OpenCore 0.6.7 - macOS Big Sur 11.2.2
 
 **GENERATE YOUR OWN SMBIOS deets (SN/MLB/UUID/ROM) -- they are EMPTY right now!**
 
-_***Should work with Dell G5 5000 Gaming Desktop as well!**_ (let me know!)
+_***Should work with Dell G5 5090 Gaming Desktop (Comet Lake) as well!**_ (let me know!)
 
 (use genSMBIOS with iMac20,1 https://github.com/corpnewt/GenSMBIOS)
 
@@ -19,6 +19,7 @@ RAM: 2x8GB DDR4-1933
 SSD: WD SN750 NVMe
 
 GPU: MSI GTX 770 2GB
+iGPU: UHD 630 (enabled with platform-id 0x3E9B0007!)
 
 AirPort/WiFi: BCM4352
 
