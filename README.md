@@ -1,8 +1,8 @@
 # Dell XPS 8940 - OpenCore
 
-OpenCore 0.6.7
+OpenCore 0.6.7 - macOS Big Sur 11.2.2
 
-**Working Shutdown/Reboot without any issue.**
+**Shutdown/Reboot/Sleep works without any issue.**
 
 **GENERATE YOUR OWN SMBIOS deets (SN/MLB/UUID/ROM) -- they are EMPTY right now!**
 
