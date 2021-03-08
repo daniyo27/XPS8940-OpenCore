@@ -11,11 +11,17 @@ _***Should work with Dell G5 5000 Gaming Desktop as well!**_ (let me know!)
 (use genSMBIOS with iMac20,1 https://github.com/corpnewt/GenSMBIOS)
 
 Dell XPS 8940
+
 CPU: Intel i7-10700
+
 RAM: 2x8GB DDR4-1933
+
 SSD: WD SN750 NVMe
+
 GPU: MSI GTX 770 2GB
+
 AirPort/WiFi: BCM4352
+
 Audio: ALC3861
 
 --
