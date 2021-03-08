@@ -10,7 +10,7 @@ _***Should work with Dell G5 5090 Gaming Desktop (Comet Lake) as well!**_ (let m
 
 (use genSMBIOS with iMac20,1 https://github.com/corpnewt/GenSMBIOS)
 
-Dell XPS 8940
+**Dell XPS 8940**
 
 CPU: Intel i7-10700
 
@@ -19,6 +19,7 @@ RAM: 2x8GB DDR4-1933
 SSD: WD SN750 NVMe
 
 GPU: MSI GTX 770 2GB
+
 iGPU: UHD 630 (enabled with platform-id 0x3E9B0007!)
 
 AirPort/WiFi: BCM4352
