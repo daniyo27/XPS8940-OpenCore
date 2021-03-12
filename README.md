@@ -41,5 +41,6 @@ USB Mapped for all front USB ports + all USB3.0 ports on the back (no USB2.0 por
 --
 
 BIOS
+  - change to AHCI instead of RAID
   - disable all SGX, security features
   - do not touch Sleep States, Performance states, SpeedShift etc. Leave them at defaults
