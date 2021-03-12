@@ -25,7 +25,7 @@ GPU: MSI GTX 770 2GB
 
 iGPU: UHD 630 (enabled with platform-id 0x3E9B0007!)
 
-AirPort/WiFi: BCM4352
+AirPort/WiFi: BCM94352Z (Lenovo)
 
 Audio: ALC3861 (actually ALC899)
 
