@@ -29,12 +29,9 @@ AirPort/WiFi: BCM4352
 
 Audio: ALC3861 (actually ALC899)
 
---
+~~Uses VoodooHDA for the time being to mitigate audio issue.~~
 
-~~Uses VoodooHDA for the time being to mitigate audio issue. 
-  - AppleALC needs to patch Vendor ID 0x8086, Device ID 0x06C8 (Comet Lake PCH cAVS) against ALC898 ID's (shows up as ALC898 in Windows)
-
-**NATIVE AppleALC patch with layout-id 1 working! Needed to add IRQ conflict fixes.
+**NATIVE AppleALC patch with layout-id 1 working! Needed to add IRQ conflict fixes.**
 
 --
 
