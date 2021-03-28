@@ -45,7 +45,7 @@ BIOS v2.0.11
   - disable all SGX, security features
   - do not touch Sleep States, Performance states, SpeedShift etc. Leave them at defaults
 
-CFG-LOCK disable -- Do this ONLY after your installation is complete
+**CFG-LOCK disable -- Do this ONLY after your installation is complete**
 - Follow the steps here: https://www.reddit.com/r/hackintosh/comments/hz2rtm/cfg_lockunlocking_alternative_method/
 - The cfg-lock offset is 0x3E for BIOS 2.0.11
 - You must use boot to ru.efi directly and not from OpenCore. modGRUB will not work!
