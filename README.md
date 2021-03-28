@@ -50,3 +50,4 @@ BIOS v2.0.11
 - The cfg-lock offset is 0x3E for BIOS 2.0.11
 - You must use boot to ru.efi directly and not from OpenCore. modGRUB will not work!
 - You must perform this step everytime you reset the BIOS configuration/update the bios.
+- Once you have verified CFG-LOCK is disabled with VerifyMSRE2.efi in OpenCore, disable in config Kernel -> Quirks -> AppleCpuPmCfgLock and Kernel -> Quirks -> AppleXcpmCfgLock
