@@ -45,6 +45,10 @@ BIOS v2.0.11
   - disable all SGX, security features
   - do not touch Sleep States, Performance states, SpeedShift etc. Leave them at defaults
 
+**UPDATE 04/09/2021 for CFG-LOCK**
+- it is only advisable to DISABLE CFG-LOCK, IF YOU HAVE an AFTERMARKET CPU COOLER!
+- disabling CFG-LOCK with the stock non-K variant Dell heatsink will cause Kernel Panics randomly due to overheating
+
 **CFG-LOCK disable -- Do this ONLY after your installation is complete**
 - Follow the steps here: https://www.reddit.com/r/hackintosh/comments/hz2rtm/cfg_lockunlocking_alternative_method/
 - The cfg-lock offset is 0x3E for BIOS 2.0.11
