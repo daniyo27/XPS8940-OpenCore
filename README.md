@@ -2,7 +2,8 @@
 
 OpenCore 0.6.7 - macOS Big Sur 11.2.2 - BIOS version 2.0.11
 
-_***Should work with Dell G5 5090 Gaming Desktop (Comet Lake) as well!**_ (let me know!)
+_***Should work with Dell G5 5090 Gaming Desktop (Comet Lake) as well!**_
+_Confirmed working with G5 5090 and i5 variant of XPS 8940 -- thanks @inkpool_
 
 **Shutdown/Reboot/Sleep works without any issue.**
 
