@@ -2,7 +2,7 @@
 
 OpenCore 0.6.9 - macOS Big Sur 11.3.1 - BIOS version 2.0.11
 
-_**UPDATED ON 05/13/2021**_ 
+_**UPDATED ON 05/13/2021**_ -- ENABLED BUILT-IN HDMI!
 
 
 
