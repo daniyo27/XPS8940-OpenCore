@@ -1,7 +1,11 @@
 # Dell XPS 8940 - OpenCore
 
 OpenCore 0.6.9 - macOS Big Sur 11.3.1 - BIOS version 2.0.11
-_**UPDATED ON 05/13/2021**_
+
+_**UPDATED ON 05/13/2021**_ 
+
+
+
 
 Confirmed working with G5 5090 and i5 variant of XPS 8940 -- _thanks @inkpool_
 
